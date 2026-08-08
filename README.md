@@ -1,30 +1,25 @@
 # Hi there, I'm Jonattan Contreras 👋
 
-<table border="0">
-  <tr>
-    <td valign="top" width="60%">
-      <h3><b>Systems Engineer & Fullstack Developer</b> 🚀</h3>
-      <blockquote>
-        Systems Engineer focused on building robust backend architectures, modern web apps, and automated systems.
-      </blockquote>
-      <h4>⚡ Quick Overview</h4>
-      <ul>
-        <li>🔭 <b>Currently Working On</b>: <a href="https://github.com/JonattanCB/AulaMental"><b>AulaMental</b></a> — Web Platform for Psychology Services.</li>
-        <li>🌱 <b>Learning & Exploring</b>: Microservices Architecture & Cloud Solutions.</li>
-        <li>🎓 <b>Education</b>: Systems Engineering at <b>Universidad Tecnológica del Perú (UTP)</b>.</li>
-        <li>📜 <b>Certification</b>: <b>Cisco Certified</b>.</li>
-        <li>🐧 <b>Hobbies</b>: Linux dotfiles, scripting & hardware automation.</li>
-        <li>💬 <b>Ask Me About</b>: Java, Spring Boot, Vue 3, Laravel, SQL & Linux.</li>
-        <li>📫 <b>Contact</b>: <a href="mailto:jonattancb02@gmail.com">jonattancb02@gmail.com</a> | <a href="https://www.linkedin.com/in/jonattan-contreras/">LinkedIn</a></li>
-      </ul>
-    </td>
-    <td valign="middle" align="center" width="40%">
-      <img width="100%" style="border-radius: 12px;" src="https://i.pinimg.com/originals/15/d8/f3/15d8f3f4b77970b90f7e82b87e91a946.gif" alt="Developer Workspace GIF" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="360" style="border-radius: 12px;" src="https://i.pinimg.com/originals/15/d8/f3/15d8f3f4b77970b90f7e82b87e91a946.gif" alt="Developer Workspace GIF" />
+
+### **Systems Engineer & Fullstack Developer** 🚀
+
+> Systems Engineer focused on building robust backend architectures, modern web apps, and automated systems.
+
+#### ⚡ Quick Overview
+
+- 🔭 **Currently Working On**: **[AulaMental](https://github.com/JonattanCB/AulaMental)** — Web Platform for Psychology Services.
+- 🌱 **Learning & Exploring**: Microservices Architecture & Cloud Solutions.
+- 🎓 **Education**: Systems Engineering at **Universidad Tecnológica del Perú (UTP)**.
+- 📜 **Certification**: **Cisco Certified**.
+- 🐧 **Hobbies**: Linux dotfiles, scripting & hardware automation.
+- 💬 **Ask Me About**: Java, Spring Boot, Vue 3, Laravel, SQL & Linux.
+- 📫 **Contact**: [jonattancb02@gmail.com](mailto:jonattancb02@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jonattan-contreras/)
+
+<br clear="right"/>
 
 ---
+
 
 
 ### 🛠️ Tech Stack & Skills
