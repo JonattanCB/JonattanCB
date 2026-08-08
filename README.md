@@ -1,6 +1,6 @@
 # Hi there, I'm Jonattan Contreras 👋
 
-<img align="right" width="360" style="border-radius: 12px;" src="https://i.pinimg.com/originals/15/d8/f3/15d8f3f4b77970b90f7e82b87e91a946.gif" alt="Developer Workspace GIF" />
+<img align="right" width="350" style="border-radius: 12px;" src="https://i.pinimg.com/originals/15/d8/f3/15d8f3f4b77970b90f7e82b87e91a946.gif" alt="Developer Workspace GIF" />
 
 ### **Systems Engineer & Fullstack Developer** 🚀
 
@@ -8,12 +8,12 @@
 
 #### ⚡ Quick Overview
 
-- 🔭 **Currently Working On**: **[AulaMental](https://github.com/JonattanCB/AulaMental)** — Web Platform for Psychology Services.
+- 🔭 **Currently Working On**: **[AulaMental](https://github.com/JonattanCB/AulaMental)** — Psychology Web Platform.
 - 🌱 **Learning & Exploring**: Microservices Architecture & Cloud Solutions.
-- 🎓 **Education**: Systems Engineering at **Universidad Tecnológica del Perú (UTP)**.
+- 🎓 **Education**: Systems Engineering at **UTP**.
 - 📜 **Certification**: **Cisco Certified**.
-- 🐧 **Hobbies**: Linux dotfiles, scripting & hardware automation.
-- 💬 **Ask Me About**: Java, Spring Boot, Vue 3, Laravel, SQL & Linux.
+- 🐧 **Hobbies**: Linux dotfiles & hardware automation.
+- 💬 **Ask Me About**: Java, Spring Boot, Vue 3, Laravel & Linux.
 - 📫 **Contact**: [jonattancb02@gmail.com](mailto:jonattancb02@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jonattan-contreras/)
 
 <br clear="right"/>
@@ -49,9 +49,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JonattanCB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JonattanCB&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JonattanCB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JonattanCB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
 ---
