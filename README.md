@@ -20,8 +20,6 @@
 
 ---
 
-
-
 ### 🛠️ Tech Stack & Skills
 
 <p align="center">
