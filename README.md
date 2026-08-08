@@ -49,8 +49,9 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JonattanCB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JonattanCB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JonattanCB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="46%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JonattanCB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="46%" />
 </p>
 
 ---
