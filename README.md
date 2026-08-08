@@ -14,7 +14,7 @@
 - 📜 **Certification**: **Cisco Certified**.
 - 🐧 **Hobbies**: Linux dotfiles & hardware automation.
 - 💬 **Ask Me About**: Java, Spring Boot, Vue 3, Laravel & Linux.
-- 📫 **Contact**: [jonattancb02@gmail.com](mailto:jonattancb02@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jonattan-contreras/)
+- 📫 **Contact**: [jonattancb02@gmail.com](mailto:jonattancb02@gmail.com) | [LinkedIn](www.linkedin.com/in/jonattancb)
 
 <br clear="right"/>
 
@@ -59,7 +59,7 @@
 ### 📬 Connect & Collaborate
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jonattan-contreras/">
+  <a href="www.linkedin.com/in/jonattancb">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
